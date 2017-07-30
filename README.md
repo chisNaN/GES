@@ -24,4 +24,4 @@ ___
 
 :bulb: Here is also the "official" [installation guide](http://wiki.geshl2.com/goldeneye/installation)
 
-### [The official trailer video](https://www.youtube.com/watch?v=-E4XtdEnWx4)
+[![official trailer](http://img.youtube.com/vi/E4XtdEnWx4/0.jpg)](https://www.youtube.com/watch?v=-E4XtdEnWx4)
