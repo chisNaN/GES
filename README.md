@@ -21,3 +21,5 @@ As of 30/07/2017 the game **only runs on Windows OS**.
 - [DS4 Windows](http://ds4windows.com) that will let you use a PS4 controller on your pc (even in bluetooth)
 
 :bulb: Here is also the "official" [installation guide](http://wiki.geshl2.com/goldeneye/installation)
+
+### [The official trailer video](https://www.youtube.com/watch?v=-E4XtdEnWx4)
