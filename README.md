@@ -35,5 +35,5 @@ git clone https://github.com/multiplay/qstat.git
 cd qstat
 ./autogen.sh
 ./configure && make
-qstat -raw "$(printf '\t')" -stm,game=gesource hl2master.steampowered.com:27011 | column -t -s"$(printf '\t')" STM  hl2master.steampowered.com:27011
+qstat -raw "$(printf '\t')" -stm,game=gesource hl2master.steampowered.com:27011 | column -t -s"$(printf '\t')"
 ```
