@@ -25,3 +25,15 @@ ___
 :bulb: Here is also the "official" [installation guide](http://wiki.geshl2.com/goldeneye/installation)
 
 ### [The official video trailer](https://www.youtube.com/watch?v=-E4XtdEnWx4)
+
+## How to check if players are online without ~~launching the game~~
+
+>Tested on macOS 10.14 (mojave)
+
+```bash
+git clone https://github.com/multiplay/qstat.git
+cd qstat
+./autogen.sh
+./configure && make
+qstat -raw "$(printf '\t')" -stm,game=gesource hl2master.steampowered.com:27011 | column -t -s"$(printf '\t')" STM  hl2master.steampowered.com:27011
+```
