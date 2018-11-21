@@ -2,7 +2,7 @@
 
 >## What one needs to play [GES](https://www.geshl2.com)
 
-- A **GOOD PING RESPONSE** internet connection : < 20 ms
+- A **GOOD PING RESPONSE** internet connection : <30 ms
 
 (then your experience will depend on how far you will be from the server you connect to)
 
