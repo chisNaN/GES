@@ -2,7 +2,7 @@
 
 ## The official video trailer
 
-![http://i3.ytimg.com/vi/-E4XtdEnWx4/maxresdefault.jpg](https://www.youtube.com/watch?v=-E4XtdEnWx4)
+[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/-E4XtdEnWx4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-E4XtdEnWx4)
 
 >## What one needs to play [GES](https://www.geshl2.com)
 
