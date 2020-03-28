@@ -10,7 +10,7 @@
 
 As of 30/07/2017 the game **only runs on Windows OS**.
 
-- The game you can download [here](https://www.geshl2.com/client-downloads) in torrent
+- The game you can download [here](https://geshl2.com/go/5-0-6-full-installer-torrent) in torrent
 
 - [Steam](http://store.steampowered.com/about) and a Steam account
 
