@@ -1,5 +1,9 @@
 # GoldenEye: Source
 
+## The official video trailer
+
+![http://i3.ytimg.com/vi/-E4XtdEnWx4/maxresdefault.jpg](https://www.youtube.com/watch?v=-E4XtdEnWx4)
+
 >## What one needs to play [GES](https://www.geshl2.com)
 
 - A **GOOD PING RESPONSE** internet connection : <50 ms
@@ -23,8 +27,6 @@ As of 30/07/2017 the game **only runs on Windows OS**.
 ___
 
 :bulb: Here is also the "official" [installation guide](http://wiki.geshl2.com/goldeneye/installation)
-
-### [The official video trailer](https://www.youtube.com/watch?v=-E4XtdEnWx4)
 
 ## How to check if players are online without ~~launching the game~~
 
