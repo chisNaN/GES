@@ -12,7 +12,7 @@
 
 - A **Windows OS** partition (it works well with [bootcamp](https://support.apple.com/fr-fr/HT201468) for macOS users)
 
-As of 30/07/2017 the game **only runs on Windows OS**.
+Download official windows 10 iso image [here](https://www.microsoft.com/fr-fr/software-download/windows10ISO)
 
 - The game you can download [here](https://geshl2.com/go/5-0-6-full-installer-torrent) in torrent
 
