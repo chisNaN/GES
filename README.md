@@ -12,7 +12,9 @@
 
 - A **Windows OS** partition (it works well with [bootcamp](https://support.apple.com/fr-fr/HT201468) for macOS users)
 
-Download official windows 10 iso image [here](https://www.microsoft.com/fr-fr/software-download/windows10ISO)
+==> Download official windows 10 iso image [here](https://www.microsoft.com/fr-fr/software-download/windows10ISO) <==
+
+[Tuto créer clé usb bootable avec rufus](https://lecrabeinfo.net/creer-une-cle-usb-dinstallation-uefi-de-windows-10-8-ou-7.html)
 
 - The game you can download [here](https://geshl2.com/go/5-0-6-full-installer-torrent) in torrent
 
